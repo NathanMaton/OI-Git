@@ -9,6 +9,8 @@ Instead of having an owner of an idea like we have on OpenIDEO, if the idea was 
 
 As you can see from this example, the ideas origins are suddenly 100% traceable to the first time this was posted on GitHub.  
 
+Here is a traceable edit I'm making on GitHub.
+
 The other major benefit from this approach is that we are constantly asking how we can push ideas to go further into being action.  I'm a strong believer than an idea is the easy part, but executing it well is where it gets very tricky.  What I like about using GitHub to strength ideas is that it provides a seamless evolution as the idea transforms into action for anything with a digital orientation.  If the interface could be made much more simple for non-coders as an idea was prototyped, we could add that prototype to GitHub & it could become a canonical list of an idea's origin.  Now, the problem with that is that as Einstein is famously quoted, the secret to creativity is knowing how to hide your sources.
 
 While the idea above and the idea of OpenIDEO are very appealing, as things grow in influence, people's desire to take more credit than they deserve grows.  I don't pretend to have an answer for what to do there, if you do let me know.
