@@ -1,3 +1,7 @@
+This project is experimenting with showing some possible directions for OpenIDEO collaboration thinking about what GitHub can teach us about open source ideation.
+
+Below is the text for this blog post which can be seen here: http://nathanmaton.github.com/OI-Git/
+
 I work at OpenIDEO, an online Open Innovation platform experimenting with how to open source social impact. We spend a lot of time thinking about how to strengthen ideas. We believe that there's value in spending time exploring the question & finding inspiration in unlikely places. We offer collaboration points to encourage the sharing of ideas & information in our challenge topics. Yet we don't yet make this process seamless.
 
 In pursuit of looking for a more seamless process I've been staring at GitHub and noticing the beauty and ease at which it updates ideas. GitHub creates precise clarity in both changes to text & who created those changes. This means that instead of having a bunch of folks clunkily commenting on each other's ideas, they're able to quickly take it, reshape it, and either submit it for approval by the originator or fork it off on their own. Instead of having to wrestle with the platform once users are up to speed on a few commands they can copy, splice & play with perfect clarity on how the work has evolved.
